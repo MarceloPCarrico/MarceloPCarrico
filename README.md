@@ -6,8 +6,6 @@
 
 - 🤝 I'm looking for **a curricular internship**
 
-- 👨‍💻 All of my projects are available at here and [https://www.linkedin.com/in/marcelo-carri%C3%A7o-003412274/](https://www.linkedin.com/in/marcelo-carri%C3%A7o-003412274/)
-
 - 📫 How to reach me **marcelopc.pro@gmail.com**
 
 - 📄 Know about my experiences [Python, HTML, C, C++]
