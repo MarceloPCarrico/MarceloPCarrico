@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
-<h3 align="center">A Full Satck Developer from Portugal</h3>
+<h3 align="center">A Full Stack Developer from Portugal</h3>
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelopcarrico&label=Profile%20views&color=0e75b6&style=flat" alt="marcelopcarrico" /> </p>
