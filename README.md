@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **marcelopc.pro@gmail.com**
 
-- 📄 Know about my experiences [C#, JAVA, Python, C, C++, SQL, ASP.NET, HTML]
+- 📄 Know about my experiences [C#, JAVA, Python, C, C++, SQL, ASP.NET, HTML, CSS]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
